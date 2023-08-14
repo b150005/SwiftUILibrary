@@ -10,11 +10,10 @@ import SwiftData
 
 @main
 struct SwiftUILibraryApp: App {
-
-    var body: some Scene {
-        WindowGroup {
-            ContentView()
-        }
-        .modelContainer(for: Item.self)
+  var body: some Scene {
+    WindowGroup {
+      ContentView()
     }
+    .modelContainer(for: Item.self)
+  }
 }

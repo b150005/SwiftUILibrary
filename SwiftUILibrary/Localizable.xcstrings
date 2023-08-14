@@ -1,0 +1,210 @@
+{
+  "sourceLanguage" : "ja",
+  "strings" : {
+    "`protocol App`" : {
+
+    },
+    "Accessibility" : {
+
+    },
+    "Accessibility fundamentals" : {
+
+    },
+    "Accessible appearance" : {
+
+    },
+    "Accessible controls" : {
+
+    },
+    "Accessible descriptions" : {
+
+    },
+    "Accessible navigation" : {
+
+    },
+    "Animations" : {
+
+    },
+    "App extensions" : {
+
+    },
+    "App organization" : {
+
+    },
+    "App Structure" : {
+
+    },
+    "AppKit integration" : {
+
+    },
+    "Clipboard" : {
+
+    },
+    "Controls and indicators" : {
+
+    },
+    "Creating an app" : {
+
+    },
+    "Custom Layout" : {
+
+    },
+    "Data and storage" : {
+
+    },
+    "Documents" : {
+
+    },
+    "Drag and drop" : {
+
+    },
+    "Drawing and graphics" : {
+
+    },
+    "Environment values" : {
+
+    },
+    "Essentials" : {
+
+    },
+    "Event handling" : {
+
+    },
+    "Exploring SwiftUI Sample Apps" : {
+
+    },
+    "Focus" : {
+
+    },
+    "Framework integration" : {
+
+    },
+    "Gestures" : {
+
+    },
+    "Images" : {
+
+    },
+    "Immersive spaces" : {
+
+    },
+    "Input events" : {
+
+    },
+    "Introducing SwiftUI" : {
+
+    },
+    "Layout adjustments" : {
+
+    },
+    "Layout fundamentals" : {
+
+    },
+    "Learning SwiftUI" : {
+
+    },
+    "Link" : {
+
+    },
+    "Lists" : {
+
+    },
+    "Menus and commands" : {
+
+    },
+    "Modal data" : {
+
+    },
+    "Modal presentations" : {
+
+    },
+    "Navigation" : {
+
+    },
+    "Persistent storage" : {
+
+    },
+    "Preferences" : {
+
+    },
+    "Previews in Xcode" : {
+
+    },
+    "Scenes" : {
+
+    },
+    "Scroll views" : {
+
+    },
+    "Search" : {
+
+    },
+    "Shapes" : {
+
+    },
+    "SwiftUI updates" : {
+
+    },
+    "System events" : {
+
+    },
+    "Tables" : {
+
+    },
+    "Targeting iOS and iPadOS" : {
+
+    },
+    "Targeting macOS" : {
+
+    },
+    "Technology-specific views" : {
+
+    },
+    "Text input and output" : {
+
+    },
+    "Tool support" : {
+
+    },
+    "Toolbars" : {
+
+    },
+    "UIKit integration" : {
+
+    },
+    "View configuration" : {
+
+    },
+    "View fundamentals" : {
+
+    },
+    "View groupings" : {
+
+    },
+    "View layout" : {
+
+    },
+    "View styles" : {
+
+    },
+    "Views" : {
+
+    },
+    "WatchKit integration" : {
+
+    },
+    "Windows" : {
+
+    },
+    "Wow" : {
+
+    },
+    "Xcode library customization" : {
+
+    },
+    "アプリの**エントリーポイント**となる`App`構造体には`@main`属性を付与して明示しなければなりません。\nまた、`App`プロトコルに準拠した構造体は、`some Scene`を返す`body`プロパティを実装する必要があります。\n`body`プロパティで定義する`Scene`インスタンスはビュー階層のRoot Viewとしてシステムのライフサイクル管理下に置かれます。" : {
+
+    }
+  },
+  "version" : "1.0"
+}
