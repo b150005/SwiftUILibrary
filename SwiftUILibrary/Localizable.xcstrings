@@ -1,7 +1,13 @@
 {
   "sourceLanguage" : "ja",
   "strings" : {
+    "[`HStack`](https://developer.apple.com/documentation/swiftui/hstack)は、**ビューの表示時に全ての子ビューを横方向に生成**します。\n[`LazyHStack`](https://developer.apple.com/documentation/swiftui/lazyhstack)とは異なり、**ビューの表示時に全てのSubviewを横方向に一括で表示**します。\nそのため、Subviewが少ない場合や遅延描画をしたくない場合に使用します。" : {
+
+    },
     "`protocol App`" : {
+
+    },
+    "`struct HStack`" : {
 
     },
     "Accessibility" : {
@@ -22,6 +28,75 @@
     "Accessible navigation" : {
 
     },
+    "Accessing Apple Pay and Wallet" : {
+
+    },
+    "Accessing Core Data" : {
+
+    },
+    "Accessing document configuration" : {
+
+    },
+    "Accessing edges and regions" : {
+
+    },
+    "Accessing environment values" : {
+
+    },
+    "Accessing geometric constructs" : {
+
+    },
+    "Accessing health data" : {
+
+    },
+    "Accessing Metal shaders" : {
+
+    },
+    "Activating controls" : {
+
+    },
+    "Adapting a presentation to size classes" : {
+
+    },
+    "Adding actions to views" : {
+
+    },
+    "Adding AppKit views to SwiftUI view hierarchies" : {
+
+    },
+    "Adding custom descriptions" : {
+
+    },
+    "Adding padding around a view" : {
+
+    },
+    "Adding progressive disclosure" : {
+
+    },
+    "Adding state-based animation to a view" : {
+
+    },
+    "Adding state-based animation to an action" : {
+
+    },
+    "Adding UIKit views to SwiftUI view hierarchies" : {
+
+    },
+    "Adjusting a view's position" : {
+
+    },
+    "Adjusting text size" : {
+
+    },
+    "Aligning views" : {
+
+    },
+    "alignment\n  縦方向の配置ガイド\nspacing\n  Subview間の余白\ncontent\n  横方向に並べて表示するSubview" : {
+
+    },
+    "Animating scroll transitions" : {
+
+    },
     "Animations" : {
 
     },
@@ -37,19 +112,319 @@
     "AppKit integration" : {
 
     },
+    "Applying blur and shadows" : {
+
+    },
+    "Applying effects based on geometry" : {
+
+    },
+    "Applying labels" : {
+
+    },
+    "Assigning a device" : {
+
+    },
+    "Assigning traits to content" : {
+
+    },
+    "Associating values with views in a custom layout" : {
+
+    },
+    "Authorizing and authenticating" : {
+
+    },
+    "Automatically choosing the layout that fits" : {
+
+    },
+    "Changing view appearance for hover events" : {
+
+    },
+    "Choosing a layout" : {
+
+    },
+    "Choosing dates" : {
+
+    },
+    "Choosing from a set of options" : {
+
+    },
     "Clipboard" : {
+
+    },
+    "Closing windows" : {
+
+    },
+    "Collecting views into a unit" : {
+
+    },
+    "Combining gestures" : {
+
+    },
+    "Compositing views" : {
+
+    },
+    "Configuring a custom layout" : {
+
+    },
+    "Configuring a dialog" : {
+
+    },
+    "Configuring a file dialog" : {
+
+    },
+    "Configuring a sheet's height" : {
+
+    },
+    "Configuring an image" : {
+
+    },
+    "Configuring backgrounds" : {
+
+    },
+    "Configuring effects" : {
+
+    },
+    "Configuring Family Sharing" : {
+
+    },
+    "Configuring headers" : {
+
+    },
+    "Configuring menu dismissal" : {
+
+    },
+    "Configuring rotors" : {
+
+    },
+    "Configuring rows" : {
+
+    },
+    "Configuring scroll bounce behavior" : {
+
+    },
+    "Configuring separators" : {
+
+    },
+    "Configuring spacing" : {
+
+    },
+    "Configuring spring loading" : {
+
+    },
+    "Configuring the navigation bar" : {
+
+    },
+    "Configuring the sidebar" : {
+
+    },
+    "Configuring the toolbar title display mode" : {
+
+    },
+    "Configuring VoiceOver" : {
+
+    },
+    "Controlling default focus" : {
+
+    },
+    "Controlling focus" : {
+
+    },
+    "Controlling hit testing" : {
+
+    },
+    "Controlling text style" : {
+
+    },
+    "Controlling the accented group" : {
 
     },
     "Controls and indicators" : {
 
     },
+    "Copying items using item providers" : {
+
+    },
+    "Copying transferable items" : {
+
+    },
+    "Creating a custom layout container" : {
+
+    },
+    "Creating a document" : {
+
+    },
+    "Creating a list" : {
+
+    },
+    "Creating a menu" : {
+
+    },
+    "Creating a menu bar extra" : {
+
+    },
+    "Creating a preview" : {
+
+    },
+    "Creating a scroll view" : {
+
+    },
+    "Creating a table" : {
+
+    },
+    "Creating a view" : {
+
+    },
+    "Creating accessible elements" : {
+
+    },
     "Creating an app" : {
 
     },
-    "Custom Layout" : {
+    "Creating an image" : {
+
+    },
+    "Creating and sharing view state" : {
+
+    },
+    "Creating buttons" : {
+
+    },
+    "Creating circular shapes" : {
+
+    },
+    "Creating columns" : {
+
+    },
+    "Creating context menus" : {
+
+    },
+    "Creating custom animations" : {
+
+    },
+    "Creating custom environment values" : {
+
+    },
+    "Creating custom preferences" : {
+
+    },
+    "Creating graphics" : {
+
+    },
+    "Creating keyboard shortcuts" : {
+
+    },
+    "Creating keyframe-based animation" : {
+
+    },
+    "Creating library items" : {
+
+    },
+    "Creating model data" : {
+
+    },
+    "Creating phase-based animation" : {
+
+    },
+    "Creating rectangular shapes" : {
+
+    },
+    "Creating rotors" : {
+
+    },
+    "Creating rotors for text ranges" : {
+
+    },
+    "Creating rotors with a label" : {
+
+    },
+    "Creating rows" : {
+
+    },
+    "Creating scenes" : {
+
+    },
+    "Creating special-purpose buttons" : {
+
+    },
+    "Creating widgets" : {
+
+    },
+    "Creating windows" : {
+
+    },
+    "Custom layout" : {
+
+    },
+    "Customizing columns" : {
+
+    },
+    "Customizing preview size and orientation" : {
 
     },
     "Data and storage" : {
+
+    },
+    "Defining commands" : {
+
+    },
+    "Defining custom gestures" : {
+
+    },
+    "Defining scroll targets" : {
+
+    },
+    "Defining shape behavior" : {
+
+    },
+    "Defining transitions" : {
+
+    },
+    "Describing charts" : {
+
+    },
+    "Describing content" : {
+
+    },
+    "Describing values" : {
+
+    },
+    "Detecting and requesting the light or dark appearance" : {
+
+    },
+    "Detecting, activating, and dismissing search" : {
+
+    },
+    "Dictating text" : {
+
+    },
+    "Disabling scrolling" : {
+
+    },
+    "Disclosing information progressively" : {
+
+    },
+    "Dismissing a presentation" : {
+
+    },
+    "Displaying a badge on a list item" : {
+
+    },
+    "Displaying media" : {
+
+    },
+    "Displaying SwiftUI views in AppKit" : {
+
+    },
+    "Displaying SwiftUI views in UIKit" : {
+
+    },
+    "Displaying text" : {
+
+    },
+    "Displaying views in multiple panes" : {
+
+    },
+    "Distributing model data throughout your app" : {
 
     },
     "Documents" : {
@@ -59,6 +434,21 @@
 
     },
     "Drawing and graphics" : {
+
+    },
+    "Drawing custom shapes" : {
+
+    },
+    "Dynamically arranging views in one dimension" : {
+
+    },
+    "Dynamically arranging views in two dimensions" : {
+
+    },
+    "Editing a list" : {
+
+    },
+    "Enlarging content" : {
 
     },
     "Environment values" : {
@@ -73,25 +463,145 @@
     "Exploring SwiftUI Sample Apps" : {
 
     },
+    "Exporting to file" : {
+
+    },
+    "Exposing reference types to focused views" : {
+
+    },
+    "Exposing value types to focused views" : {
+
+    },
+    "Finetuning a layout" : {
+
+    },
     "Focus" : {
 
     },
     "Framework integration" : {
 
     },
+    "Generating backgrounds and overlays from preferences" : {
+
+    },
     "Gestures" : {
+
+    },
+    "Getting built-in command groups" : {
+
+    },
+    "Getting confirmation for an action" : {
+
+    },
+    "Getting location information" : {
+
+    },
+    "Getting numeric inputs" : {
+
+    },
+    "Getting text input" : {
+
+    },
+    "Getting the color scheme contrast" : {
+
+    },
+    "Grouping inputs" : {
+
+    },
+    "Grouping views into a box" : {
+
+    },
+    "Handling background tasks" : {
+
+    },
+    "Handling external events" : {
+
+    },
+    "Handling URLs" : {
+
+    },
+    "Handling user activities" : {
+
+    },
+    "Hello, World!" : {
+
+    },
+    "Hiding elements" : {
+
+    },
+    "Hiding system elements" : {
+
+    },
+    "Hiding views" : {
+
+    },
+    "HStack Alignment" : {
+
+    },
+    "HStack(alignment:)" : {
+
+    },
+    "HStack(spacing:)" : {
+
+    },
+    "Identifying elements" : {
 
     },
     "Images" : {
 
     },
-    "Immersive spaces" : {
+    "Immediate mode drawing" : {
+
+    },
+    "Importing and exporting transferable items" : {
+
+    },
+    "Importing and exporting using item providers" : {
+
+    },
+    "Importing from file" : {
+
+    },
+    "Improving legibility" : {
+
+    },
+    "Indicating a value" : {
+
+    },
+    "Indicating missing content" : {
+
+    },
+    "Indicating that a view can receive focus" : {
+
+    },
+    "Influencing a view's size" : {
 
     },
     "Input events" : {
 
     },
+    "Interacting with a software keyboard" : {
+
+    },
+    "Interacting with networked devices" : {
+
+    },
+    "Interacting with the App Store and Apple Music" : {
+
+    },
     "Introducing SwiftUI" : {
+
+    },
+    "Iterating over list content" : {
+
+    },
+    "Labeling a submission event" : {
+
+    },
+    "Labeling a widget" : {
+
+    },
+    "Layering views" : {
 
     },
     "Layout adjustments" : {
@@ -103,13 +613,91 @@
     "Learning SwiftUI" : {
 
     },
+    "Limiting line count for multiline text" : {
+
+    },
+    "Limiting search scope" : {
+
+    },
     "Link" : {
+
+    },
+    "Linking to other content" : {
 
     },
     "Lists" : {
 
     },
+    "Loading images asynchronously" : {
+
+    },
+    "Localizing text" : {
+
+    },
+    "Making data animatable" : {
+
+    },
+    "Making gestures accessible" : {
+
+    },
+    "Making search suggestions" : {
+
+    },
+    "Managing a settings window" : {
+
+    },
+    "Managing color" : {
+
+    },
+    "Managing column collapse" : {
+
+    },
+    "Managing content visibility" : {
+
+    },
+    "Managing dynamic data" : {
+
+    },
+    "Managing focus state" : {
+
+    },
+    "Managing gesture state" : {
+
+    },
+    "Managing interactivity" : {
+
+    },
+    "Managing scroll position" : {
+
+    },
+    "Managing symbol effects" : {
+
+    },
+    "Managing text entry" : {
+
+    },
+    "Managing text layout" : {
+
+    },
+    "Managing the view hierarchy" : {
+
+    },
+    "Managing Touch Bar input" : {
+
+    },
+    "Managing view interaction" : {
+
+    },
+    "Masking and clipping" : {
+
+    },
+    "Measuring a view" : {
+
+    },
     "Menus and commands" : {
+
+    },
+    "Minimizing motion" : {
 
     },
     "Modal data" : {
@@ -118,16 +706,151 @@
     "Modal presentations" : {
 
     },
+    "Modifying a view" : {
+
+    },
+    "Modifying the environment" : {
+
+    },
+    "Monitoring scene life cycle" : {
+
+    },
+    "Moving a file" : {
+
+    },
+    "Moving an animation to another view" : {
+
+    },
+    "Moving items using item providers" : {
+
+    },
+    "Moving transferable items" : {
+
+    },
+    "Naming a preview" : {
+
+    },
     "Navigation" : {
+
+    },
+    "Offering hints" : {
+
+    },
+    "Opening a document programmatically" : {
+
+    },
+    "Opening windows" : {
+
+    },
+    "Overview" : {
 
     },
     "Persistent storage" : {
 
     },
+    "Populating a customizable toolbar" : {
+
+    },
+    "Populating a toolbar" : {
+
+    },
+    "Positioning and sizing a window" : {
+
+    },
     "Preferences" : {
 
     },
+    "Presenting a group of controls" : {
+
+    },
+    "Presenting an alert" : {
+
+    },
+    "Presenting an alert with a message" : {
+
+    },
+    "Presenting an inspector" : {
+
+    },
+    "Presenting views in columns" : {
+
+    },
+    "Presenting views in tabs" : {
+
+    },
+    "Previewing content" : {
+
+    },
     "Previews in Xcode" : {
+
+    },
+    "Providing contextual help" : {
+
+    },
+    "Providing haptic feedback" : {
+
+    },
+    "Reacting to interface characteristics" : {
+
+    },
+    "Recognizing gestures that change over time" : {
+
+    },
+    "Recognizing long press gestures" : {
+
+    },
+    "Recognizing spatial events" : {
+
+    },
+    "Recognizing tap gestures" : {
+
+    },
+    "Redacting private content" : {
+
+    },
+    "Refreshing a list's content" : {
+
+    },
+    "Renaming a document" : {
+
+    },
+    "Rendering images from views" : {
+
+    },
+    "Replacing system rotors" : {
+
+    },
+    "Reporting on device activity" : {
+
+    },
+    "Resetting focus" : {
+
+    },
+    "Responding to changes in preferences" : {
+
+    },
+    "Responding to commands" : {
+
+    },
+    "Responding to data changes" : {
+
+    },
+    "Responding to hover events" : {
+
+    },
+    "Responding to keyboard input" : {
+
+    },
+    "Responding to submission events" : {
+
+    },
+    "Responding to view life cycle updates" : {
+
+    },
+    "Saving state across app launches" : {
+
+    },
+    "Scaling, rotating, or transforming a view" : {
 
     },
     "Scenes" : {
@@ -139,10 +862,160 @@
     "Search" : {
 
     },
+    "Searching for text in a view with find and replace" : {
+
+    },
+    "Searching your app's data model" : {
+
+    },
+    "Selecting photos" : {
+
+    },
+    "Selecting text" : {
+
+    },
+    "Separators" : {
+
+    },
+    "Setting a color" : {
+
+    },
+    "Setting a container shape" : {
+
+    },
+    "Setting a context" : {
+
+    },
+    "Setting a font" : {
+
+    },
+    "Setting a layout direction" : {
+
+    },
+    "Setting a preferred order" : {
+
+    },
+    "Setting a symbol variant" : {
+
+    },
+    "Setting focus scope" : {
+
+    },
+    "Setting margins" : {
+
+    },
+    "Setting preferences" : {
+
+    },
+    "Setting preferences based on geometry" : {
+
+    },
+    "Setting symbol rendering modes" : {
+
+    },
+    "Setting the toolbar title menu" : {
+
+    },
+    "Setting titles for navigation content" : {
+
+    },
+    "Setting toolbar visibility" : {
+
+    },
     "Shapes" : {
 
     },
+    "Sharing configuration information" : {
+
+    },
+    "Showing a confirmation dialog with a message" : {
+
+    },
+    "Showing a sheet, cover, or popover" : {
+
+    },
+    "Showing scroll indicators" : {
+
+    },
+    "Sizing controls" : {
+
+    },
+    "Specifying a scene style for a preview" : {
+
+    },
+    "Specifying the role of toolbar content" : {
+
+    },
+    "Stacking views in one column" : {
+
+    },
+    "Statically arranging views in one dimension" : {
+
+    },
+    "Statically arranging views in two dimensions" : {
+
+    },
+    "Staying in the safe areas" : {
+
+    },
+    "Storing document data in a class instance" : {
+
+    },
+    "Storing document data in a structure instance" : {
+
+    },
+    "Structures" : {
+
+    },
+    "Styling a toolbar" : {
+
+    },
+    "Styling buttons" : {
+
+    },
+    "Styling collection views" : {
+
+    },
+    "Styling content" : {
+
+    },
+    "Styling groups" : {
+
+    },
+    "Styling indicators" : {
+
+    },
+    "Styling menus" : {
+
+    },
+    "Styling navigation views" : {
+
+    },
+    "Styling pickers" : {
+
+    },
+    "Styling the associated toolbar" : {
+
+    },
+    "Styling toggles" : {
+
+    },
+    "Styling views that display text" : {
+
+    },
+    "Styling windows from a view inside the window" : {
+
+    },
+    "Supporting types" : {
+
+    },
+    "Supporting view types" : {
+
+    },
     "SwiftUI updates" : {
+
+    },
+    "Synchronizing geometries" : {
 
     },
     "System events" : {
@@ -169,7 +1042,19 @@
     "Toolbars" : {
 
     },
+    "Transforming a shape" : {
+
+    },
+    "Transforming colors" : {
+
+    },
+    "Transitioning between layout types" : {
+
+    },
     "UIKit integration" : {
+
+    },
+    "Updating a view on a schedule" : {
 
     },
     "View configuration" : {
@@ -190,19 +1075,16 @@
     "Views" : {
 
     },
-    "WatchKit integration" : {
-
-    },
     "Windows" : {
-
-    },
-    "Wow" : {
 
     },
     "Xcode library customization" : {
 
     },
     "アプリの**エントリーポイント**となる`App`構造体には`@main`属性を付与して明示しなければなりません。\nまた、`App`プロトコルに準拠した構造体は、`some Scene`を返す`body`プロパティを実装する必要があります。\n`body`プロパティで定義する`Scene`インスタンスはビュー階層のRoot Viewとしてシステムのライフサイクル管理下に置かれます。" : {
+
+    },
+    "レイアウトコンテナを使うことで、UI要素の配置を調整することができます。" : {
 
     }
   },

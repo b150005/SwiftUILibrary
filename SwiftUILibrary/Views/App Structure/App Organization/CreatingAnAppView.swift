@@ -9,12 +9,11 @@ import SwiftUI
 import HighlightSwift
 
 struct CreatingAnAppView: View {
-  let url: URL? = URL(string: "https://developer.apple.com/documentation/swiftui/app-organization#creating-an-app")
-  let padding: CGFloat = 10
+  private let url: URL? = URL(string: "https://developer.apple.com/documentation/swiftui/app-organization#creating-an-app")
   
   var body: some View {
     NavigationItemContentView("Creating an app", url: url) {
-      LazyVStack(alignment: .leading, spacing: padding, pinnedViews: [.sectionHeaders]) {
+      LazyVStack(alignment: .leading, spacing: LayoutParameters.PADDING, pinnedViews: [.sectionHeaders]) {
         Section {
           Group {
             Text(
@@ -37,15 +36,13 @@ struct CreatingAnAppView: View {
               """
             )
           }
-          .frame(maxWidth: .infinity, alignment: .leading)
-          .padding(.horizontal, padding)
+          .navigationItemContent()
         } header: {
           Text("`protocol App`")
-            .frame(maxWidth: .infinity, alignment: .leading)
-            .padding(.horizontal, padding)
-            .background(.bar)
+            .navigationItemSectionHeader()
         }
       }
+      .listStyle(.insetGrouped)
     }
   }
 }

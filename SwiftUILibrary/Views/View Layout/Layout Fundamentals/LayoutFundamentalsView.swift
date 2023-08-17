@@ -8,11 +8,29 @@
 import SwiftUI
 
 struct LayoutFundamentalsView: View {
-    var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+  let url: URL? = URL(string: "https://developer.apple.com/documentation/swiftui/layout-fundamentals")
+  
+  var body: some View {
+    NavigationItemContentView("Layout fundamentals", url: url) {
+      LazyVStack(alignment: .leading, spacing: LayoutParameters.PADDING, pinnedViews: [.sectionHeaders]) {
+        Section {
+          Text(
+            """
+            レイアウトコンテナを使うことで、UI要素の配置を調整することができます。
+            """
+          )
+          .navigationItemContent()
+        } header: {
+          Text("Overview")
+            .navigationItemSectionHeader()
+        }
+      }
     }
+  }
 }
 
 #Preview {
+  NavigationStack {
     LayoutFundamentalsView()
+  }
 }
