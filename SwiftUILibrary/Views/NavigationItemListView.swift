@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct NavigationListView: View {
+struct NavigationItemListView: View {
   var body: some View {
     NavigationSplitView {
       List {
@@ -1324,5 +1324,5 @@ struct NavigationListView: View {
 }
 
 #Preview {
-  NavigationListView()
+  NavigationItemListView()
 }
